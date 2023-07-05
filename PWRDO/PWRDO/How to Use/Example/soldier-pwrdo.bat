@@ -1,0 +1,4 @@
+
+@echo off 
+for /l %%i in (1,1,5) do (
+start cmd /k "PccAppEncoder --configurationFolder=cfg/ --config=cfg/common/ctc-common.cfg --config=cfg/condition/ctc-random-access.cfg --config=cfg/sequence/soldier_vox10-lossless.cfg --config=cfg/rate/ctc-r%%i.cfg --uncompressedDataFolder=./ply/ --frameCount=2 --videoEncoderPath=../externall/HM-16.20+SCM-8.8/bin/TAppEncoder.exe --colorSpaceConversionPath=../externall/HDRTools/bin/HDRConvert --reconstructedDataPath=soldier/soldier_ra32_r%%i_rec_%%04d.ply --compressedStreamPath=soldier/soldier_ra32_r%%i_df.bin --apply3dMotionCompensation=0 --keepIntermediateFiles=1 >soldier/soldier_ra32_r%%i.txt")
