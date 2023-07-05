@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "50243E5B-9F7C-443B-85D6-D76A2B1689D0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58DBF0C2-DB4A-48DE-AB8A-7F17A479C89D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/inc/IFunctions.H"
+            timestampString = "448218157.663351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "uiShiftRightRound(uint16 val, uint16 b)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBCC8942-8836-415B-92CB-97F6DDB2AC4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/OutputAVISim2.cpp"
+            timestampString = "448222398.198711"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "OutputAVI::formatSim2F2(uint8** input, //!&lt; input buffer uint8** output, //!&lt; output buffer FrameFormat *source, //!&lt; format of source buffer int symbolSizeInBytes"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA509E37-4019-4D13-9971-8BFB3546482F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/FrameFilterNLMeans.cpp"
+            timestampString = "472522940.376535"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "FrameFilterNLMeans::FrameFilterNLMeans(width, height, wSizeX, wSizeY)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA509E37-4019-4D13-9971-8BFB3546482F - e1e9b3af13ec775d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FrameFilterNLMeans::FrameFilterNLMeans(int, int, int, int)"
+                  moduleName = "HDRConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexismt/Work/Code/External_Code/MPEG/HDRTools/common/src/FrameFilterNLMeans.cpp"
+                  timestampString = "558310868.291075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "2634">
+               </Location>
+               <Location
+                  uuid = "FA509E37-4019-4D13-9971-8BFB3546482F - e1e9b3af13ec775d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FrameFilterNLMeans::FrameFilterNLMeans(int, int, int, int)"
+                  moduleName = "HDRConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexismt/Work/Code/External_Code/MPEG/HDRTools/common/src/FrameFilterNLMeans.cpp"
+                  timestampString = "558310868.2955149"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "2684">
+               </Location>
+               <Location
+                  uuid = "FA509E37-4019-4D13-9971-8BFB3546482F - e1e9b3af13ec775d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FrameFilterNLMeans::FrameFilterNLMeans(int, int, int, int)"
+                  moduleName = "HDRConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexismt/Work/Code/External_Code/MPEG/HDRTools/common/src/FrameFilterNLMeans.cpp"
+                  timestampString = "558310868.298319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88E9E909-04FB-4708-B3DC-428E6EF05105"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/OutputAVI.cpp"
+            timestampString = "558310865.8166389"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1259"
+            endingLineNumber = "1259"
+            landmarkName = "OutputAVI::closeOutputFile(FrameFormat *format)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEAEFFE2-A764-4ACD-874B-14DF922A1C26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/OutputAVI.cpp"
+            timestampString = "558310865.820539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "945"
+            endingLineNumber = "945"
+            landmarkName = "OutputAVI::closeOutputFile(FrameFormat *format)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8597FDDD-E93B-4282-B981-3DAE1A2A6C7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/OutputAVI.cpp"
+            timestampString = "558310865.820668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "946"
+            endingLineNumber = "946"
+            landmarkName = "OutputAVI::closeOutputFile(FrameFormat *format)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EE31D60-A6EF-4414-BAA9-B691D963C46E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/InputDPX.cpp"
+            timestampString = "480376744.36034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "429"
+            endingLineNumber = "429"
+            landmarkName = "InputDPX::readGenericOrientationHeader(DPXFileData * t)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAAFEC93-DF61-4027-8A08-47CC8816DD28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/InputDPX.cpp"
+            timestampString = "480386613.41406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "296"
+            endingLineNumber = "296"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DB6B8E9-E77F-45B1-A108-5B0E3CD93842"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/inc/IODPX.H"
+            timestampString = "480492070.794245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "enum { DPX_DS_USER = 0, // User-defined DPX_DS_RED = 1, // Red DPX_DS_GREEN = 2, // Green DPX_DS_BLUE = 3, // Blue DPX_DS_ALPHA = 4, // Alpha DPX_DS_LUMINANCE = 6, // Luminance DPX_DS_CHROMINANCE = 7, // Chrominance DPX_DS_DEPTH = 8, // Depth DPX_DS_COMPOSITE = 9, // Composite video DPX_DS_RGB = 50, // RGB DPX_DS_RGBA = 51, // RGBA DPX_DS_ABGR = 52, // ABGR DPX_DS_CBYCRY = 100, // CbYCrY DPX_DS_CBYACRYA = 101, // CbYaCrYa DPX_DS_CBYCR = 102, // CbYCr DPX_DS_CBYCRA = 103, // CbYCra DPX_DS_2EL = 150, // User-defined 2-component element DPX_DS_3EL = 151, // User-defined 3-component element DPX_DS_4EL = 152, // User-defined 4-component element DPX_DS_5EL = 153, // User-defined 5-component element DPX_DS_6EL = 154, // User-defined 6-component element DPX_DS_7EL = 155, // User-defined 7-component element DPX_DS_8EL = 156, // User-defined 8-component element DPX_DS_TOTAL = 256 }"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED1576FD-CC42-41BC-B62B-B778B2D14E44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/inc/Conv444to420CrEdge.H"
+            timestampString = "481596855.078705"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F75F999D-21C1-441D-A53A-472C666FB652"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/DistortionMetricVIF.cpp"
+            timestampString = "481614592.959219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
+            landmarkName = "DistortionMetricVIF::vectorMax (int* input, int size , int imax)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "276F1980-D2F5-4F49-BF29-37D792D3EFCB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/TransferFunction.cpp"
+            timestampString = "482703275.632611"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "TransferFunction::create(int method, bool singleStep, float scale, float systemGamma, float minValue, float maxValue, bool enableLUT, bool enableFwdDerivLUT, TransferFunctionParams *params)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3861EB3C-76C8-4DBB-8394-8A223608DADD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/TransferFunction.cpp"
+            timestampString = "482710179.059706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "TransferFunction::create(int method, bool singleStep, float scale, float systemGamma, float minValue, float maxValue, bool enableLUT, bool enableFwdDerivLUT, TransferFunctionParams *params)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "565A0D02-DF28-4A6B-A1C3-D949F02081D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/TransferFunctionPower.cpp"
+            timestampString = "493066499.375844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "565A0D02-DF28-4A6B-A1C3-D949F02081D6 - b7b30dd5c8c7b653"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TransferFunctionPower::TransferFunctionPower(double, double, double)"
+                  moduleName = "HDRConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexismt/Work/Code/External_Code/MPEG/HDRTools/common/src/TransferFunctionPower.cpp"
+                  timestampString = "558310868.35697"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "565A0D02-DF28-4A6B-A1C3-D949F02081D6 - b7b30dd5c8c7b653"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TransferFunctionPower::TransferFunctionPower(double, double, double)"
+                  moduleName = "HDRConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexismt/Work/Code/External_Code/MPEG/HDRTools/common/src/TransferFunctionPower.cpp"
+                  timestampString = "558310868.359565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D50B0AC5-8453-4D96-94F3-60F6B95D1B25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../projects/GamutTest/src/ProjectParameters.cpp"
+            timestampString = "523321978.534364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AB552C5-1E18-4F20-A48A-0F80B17EB6C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../projects/HDRConvert/src/HDRConvert.cpp"
+            timestampString = "551576307.357955"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "main(int argc, char **argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02B5BA61-4647-4712-A9AF-5BF839BE922A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../projects/HDRConvert/src/HDRConvert.cpp"
+            timestampString = "551576307.3595099"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
+            landmarkName = "main(int argc, char **argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "978A61B5-EF28-4D96-BAC4-D5F683B7931E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../common/src/Input.cpp"
+            timestampString = "558310865.824448"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "720"
+            endingLineNumber = "720"
+            landmarkName = "Input::~Input()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
